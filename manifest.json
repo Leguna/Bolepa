@@ -1,0 +1,17 @@
+{
+    "name": "Bolepa",
+    "short_name": "Bolepa",
+    "description": "Pantau terus pertandinganmu.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#64B5F6",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "998763996253"
+}
